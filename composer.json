@@ -1,0 +1,17 @@
+{
+    "name": "artursansons/exchange",
+    "autoload": {
+        "psr-4": {
+            "Exchange\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ansonsarturs",
+            "email": "ansonsarturs@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-curl": "*"
+    }
+}
